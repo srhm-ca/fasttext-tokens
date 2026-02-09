@@ -1,4 +1,4 @@
-# fasttext-tokens
+# fasttext-why
 Want to know what your FastText classifier is thinking? Use this script to extract the most telling tokens for a given label from a FastText model.
 
 ```
